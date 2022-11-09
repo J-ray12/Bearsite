@@ -38,11 +38,11 @@ nav ul i
     background-image: url(img/bgimage.png);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 600px;
+    height: 650px;
 }
 .secondsection {
     background-color: rgb(231, 228, 228);
-    height: 250px;
+    height: 200px;
 }
 .secondsection h1
 {
