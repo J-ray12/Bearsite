@@ -34,7 +34,8 @@ nav ul i
     padding: 2px;
     padding-left: 8px;
 }
-.firstsection {
+.firstsection 
+{
     background-image: url(img/bgimage.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -45,7 +46,8 @@ nav ul i
 {
     font-weight: lighter;
 }
-.secondsection {
+.secondsection 
+{
     text-align: center;
     padding-top: 60px;
     background-color: whitesmoke;
@@ -82,7 +84,7 @@ nav ul i
     
 }
 .text-small
- {
+{
     font-size: 15px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
       color: #383838;
@@ -99,10 +101,6 @@ nav ul i
     font-size:medium;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 
-}
-.thirdsection {
-    background-color: whitesmoke;
-    height: 500px;
 }  
 .column 
 {
@@ -160,17 +158,87 @@ nav ul i
     clear: both;
     
 }
+
+.frm 
+{
+  min-height:100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.forms
+{
+  padding-bottom: 10px;
+  min-width: 860px;
+  max-width: 200px;
+  min-height: 500px;
+  display: flex;
+  align-items: center;
+  background-color: rgb( 221, 229, 229 );
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;    
+
+}
+.formz
+{
+  padding: 3px 20px;
+  margin: 8px 0;
+  background-color: black;
+  color: #dddbdb;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  width: 380px;
+  height: 390px;
+  box-sizing: border-box;
+}
+.textsec
+{
+      
+    font-size: medium;
+}
+.Textbox
+{
+    width: 340px;
+    height: 26px;
+    
+}
+.Textbox3
+{
+    width:84px;
+    height: 26px;
+    float: left;
+}
+.Textbox4
+{
+    width:234px;
+    height: 26px;
+   float: right;
+}
+.btns
+{
+  width: 40%; 
+  background-color: #d3940c;
+  color: #dddbdb;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  padding: 10px 16px;
+  margin: 8px 0;
+  border: none;
+}
+.textsec
+{
+  width: 50%;
+  padding-left: 30px;
+}
 .footer {
     background-color: black;
     padding: 40px;
     color: #a0a0a0;
-  }
+ }
 .footer img
-  {
-    margin-left: 50px;
-  }
- .footer p
  {
+    margin-left: 50px;
+}
+ .footer p
+{
     margin: 0;
     margin-left: 52px;;
      font-size: 11px;
