@@ -34,8 +34,7 @@ nav ul i
     padding: 2px;
     padding-left: 8px;
 }
-.firstsection 
-{
+.firstsection {
     background-image: url(img/bgimage.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -46,8 +45,7 @@ nav ul i
 {
     font-weight: lighter;
 }
-.secondsection 
-{
+.secondsection {
     text-align: center;
     padding-top: 60px;
     background-color: whitesmoke;
@@ -84,7 +82,7 @@ nav ul i
     
 }
 .text-small
-{
+ {
     font-size: 15px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
       color: #383838;
@@ -159,16 +157,16 @@ nav ul i
     
 }
 
-.frm 
+.wrap
 {
   min-height:100vh;
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color:whitesmoke;    
+  background-color: whitesmoke;
 
 }
-.forms
+.wraps
 {
   padding-bottom: 10px;
   min-width: 860px;
@@ -180,7 +178,7 @@ nav ul i
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;    
 
 }
-.formz
+.forms
 {
   padding: 3px 20px;
   margin: 8px 0;
@@ -191,7 +189,7 @@ nav ul i
   height: 390px;
   box-sizing: border-box;
 }
-.textsec
+.wrapped
 {
       
     font-size: medium;
@@ -224,7 +222,7 @@ nav ul i
   margin: 8px 0;
   border: none;
 }
-.textsec
+.wrapped
 {
   width: 50%;
   padding-left: 30px;
@@ -233,13 +231,13 @@ nav ul i
     background-color: black;
     padding: 40px;
     color: #a0a0a0;
- }
+  }
 .footer img
- {
+  {
     margin-left: 50px;
-}
+  }
  .footer p
-{
+ {
     margin: 0;
     margin-left: 52px;;
      font-size: 11px;
