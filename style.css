@@ -186,13 +186,8 @@ nav ul i
   color: #dddbdb;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   width: 380px;
-  height: 390px;
+  height: 400px;
   box-sizing: border-box;
-}
-.wrapped
-{
-      
-    font-size: medium;
 }
 .Textbox
 {
