@@ -7451,6 +7451,8 @@ textarea.form-control-lg {
 .px-3 {
   padding-right: 1rem !important;
   padding-left: 1rem !important;
+  padding-top: 1rem !important;
+  padding-bottom: 2rem !important;
 }
 
 .px-4 {
@@ -11409,11 +11411,6 @@ border: #534f4f;}
 {
   font-size: 38px;
   font-weight: 590 !important;
-}
-.py-2
-{
-  
-  height: 180px;
 }
 a.cu:hover{
     background-color: #534f4f;}
